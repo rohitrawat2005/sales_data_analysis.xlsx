@@ -18,7 +18,7 @@ This project analyzes a global sales dataset using Google Sheets. The goal was t
 ![Country Sales](https://github.com/rohitrawat2005/sales_data_analysis.xlsx/blob/main/Screenshot%202026-02-08%20133708.png)
 
 ### Monthly Sales Trend
-![Monthly Sales Trend](monthly_sales_trend.png)
+![Monthly Sales Trend](https://github.com/rohitrawat2005/sales_data_analysis.xlsx/blob/main/Screenshot%202026-02-08%20134627.png)
 
 ## Learnings
 - Worked with real-world messy data
